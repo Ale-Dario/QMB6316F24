@@ -43,7 +43,6 @@ rm(list=ls(all=TRUE))
 
 setwd("~/GitHub/QMB6316F24/demo_10_omitted_variables")
 
-
 # Now, RStudio should know where your files are.
 
 
